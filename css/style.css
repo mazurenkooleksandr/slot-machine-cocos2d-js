@@ -1,0 +1,15 @@
+.canvasContainer {
+    width: 100%;
+    text-align: center;
+    font-family: 'Nunito', sans-serif;
+}
+  
+.slots__red_line {
+    margin: 0 auto;
+    width: 1050px;
+    border-top: 9px solid red;
+    display: none;
+    position: relative;
+    bottom: 580px;
+    z-index: 2;
+}

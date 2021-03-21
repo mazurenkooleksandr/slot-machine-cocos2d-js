@@ -1,0 +1,115 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>icons/0.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{243,1},{241,158}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{241,158}</string>
+			</dict>
+			<key>icons/1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{486,1},{241,158}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{241,158}</string>
+			</dict>
+			<key>icons/2.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,1},{240,159}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{240,159}</string>
+			</dict>
+			<key>icons/3.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{729,1},{240,158}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{240,158}</string>
+			</dict>
+			<key>icons/4.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{971,1},{240,158}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{240,158}</string>
+			</dict>
+			<key>icons/5.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{486,1},{241,158}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{241,158}</string>
+			</dict>
+			<key>icons/6.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1213,1},{240,158}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{240,158}</string>
+			</dict>
+			<key>icons/7.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1455,1},{240,158}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{240,158}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>icons.png</string>
+			<key>realTextureFileName</key>
+			<string>icons.png</string>
+			<key>size</key>
+			<string>{1938,161}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>1938</integer>
+			<key>height</key>
+			<integer>161</integer>
+		</dict>
+	</dict>
+</plist>
