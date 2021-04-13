@@ -62,13 +62,13 @@
 			<key>icons/5.png</key>
 			<dict>
 				<key>frame</key>
-				<string>{{486,1},{241,158}}</string>
+				<string>{{1697,1},{210,141}}</string>
 				<key>offset</key>
 				<string>{0,0}</string>
 				<key>rotated</key>
 				<false />
 				<key>sourceSize</key>
-				<string>{241,158}</string>
+				<string>{240,102}</string>
 			</dict>
 			<key>icons/6.png</key>
 			<dict>
